@@ -10,6 +10,7 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     Plug 'vim-airline/vim-airline-themes'
     Plug 'kevinhwang91/rnvimr', {'do': 'make sync'}
     Plug 'junegunn/goyo.vim'
-
+    Plug 'Yggdroot/indentLine'
+"    Plug 'yianwillis/vimcdoc'
 call plug#end()
 	
